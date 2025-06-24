@@ -14,12 +14,12 @@ Software developer with experience in designing, developing, testing, and mainta
 * 🧠  I'm learning React and Node js
 * 🤝  I'm open to collaborating on software and data analysts projects
 * ⚡  like playing football
-
+<img src = "https://github.com/SteveRonald/SteveRonald/blob/main/animated-line.svg" alt="animated line"/>
 <a href="https://www.github.com/SteveRonald" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SteveRonald?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/@Stevegmail98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@Stevegmail98?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
+<img src = "https://github.com/SteveRonald/SteveRonald/blob/main/animated-line.svg" alt="animated line"/>
 ### Skills
 
 
