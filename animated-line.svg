@@ -1,5 +1,5 @@
-<svg width="1000" height="10" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="5" x2="200" y2="5" stroke="yellow" stroke-width="4">
-    <animate attributeName="x2" from="0" to="1000" dur="3s" repeatCount="indefinite" />
+<svg width="2000" height="10" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="5" x2="200" y2="5" stroke="blue" stroke-width="4">
+    <animate attributeName="x2" from="0" to="2000" dur="3s" repeatCount="indefinite" />
   </line>
 </svg>
