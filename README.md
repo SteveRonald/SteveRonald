@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steve Ronald
 ====================================================================================================================================
-![Animated Developer Line](./animated-line.svg)  
+<img src = "https://raw.githubusercontent.com/SteveRonald/SteveRonald/refs/heads/main/animated-line.svg" alt="animated line">
 
 Software Developer and Data Analyst
 -----------------------------------
