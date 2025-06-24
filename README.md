@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 <img src = "https://github.com/SteveRonald/SteveRonald/blob/main/animated-line.svg" alt="animated line"/>
 
-Software Developer and Data Analyst
+Software Developer and Data Analyst 
 -----------------------------------
 
 Software developer with experience in designing, developing, testing, and maintaining software applications. Proficient in writing code, debugging errors, and collaborating with other developers and stakeholders to create efficient and user-friendly software. Strong problem-solving skills, knowledge of programming languages, and the ability to work in a team. Also experienced as a data analyst, collecting, cleaning, and analyzing data to identify trends and insights. Skilled in using statistical methods and data visualization techniques to present findings to stakeholders. Possesses strong analytical skills, knowledge of statistical software, and the ability to communicate complex information clearly.
