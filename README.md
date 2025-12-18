@@ -10,7 +10,7 @@ Software developer with experience in designing, developing, testing, and mainta
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/SteveRonald)
 * ✉️  You can contact me at [okothsteve863@gmail.com](mailto:okothsteve863@gmail.com)
-* 🚀  I'm currently working on [E-commerce website](http://github.com/SteveRonald/E-commerce-website)
+* 🚀  I'm currently working on [CodeCraftAcademy.com](https://codecraftacademy34.vercel.app/)
 * 🧠  I'm learning React and Node js
 * 🤝  I'm open to collaborating on software and data analysts projects
 * ⚡  like playing football
