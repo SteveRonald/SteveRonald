@@ -8,7 +8,7 @@ Software Developer
 Software developer with experience in designing, developing, testing, and maintaining software applications. Proficient in writing code, debugging errors, and collaborating with other developers and stakeholders to create efficient and user-friendly software. Strong problem-solving skills, knowledge of programming languages, and the ability to work in a team. Also experienced as a data analyst, collecting, cleaning, and analyzing data to identify trends and insights. Skilled in using statistical methods and data visualization techniques to present findings to stakeholders. Possesses strong analytical skills, knowledge of statistical software, and the ability to communicate complex information clearly.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [Steveronald.com](https://steveronald.me)
+* 🖥️  See my portfolio at [steveronald.me](https://steveronald.me)
 * ✉️  You can contact me at [Email](mailto:okothsteve863@gmail.com)
 * 🚀  You Can visit my website here  [CodeCraftAcademy.com](https://codeecraftacademy.vercel.app/)
 * 🧠  I'm learning React and Node js
