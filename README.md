@@ -9,7 +9,7 @@ Software developer with experience in designing, developing, testing, and mainta
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [steveronald.me](https://steveronald.me)
-* ✉️  You can contact me at [Email](mailto:okothsteve863@gmail.com)
+* ✉️  You can contact me at [Email](mailto:contact@steveronald.me)
 * 🚀  You Can visit my website here  [CodeCraftAcademy.com](https://codeecraftacademy.vercel.app/)
 * 🧠  I'm learning React and Node js
 * 🤝  I'm open to collaborating on software and data analysts projects
